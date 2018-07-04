@@ -3,5 +3,5 @@
 別にKeyconfig以外でも使えると思うので、もし使いたければ圧縮してある方の中身をコピペして使ってください。  
 
 -----
-License: MIT License
+License: MIT License  
 作者: 森の子リスのミーコの大冒険
