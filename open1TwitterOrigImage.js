@@ -1,1 +1,0 @@
-javascript:(function(){var s=document.querySelector(".media-image").src;s=s.replace(/(:large)?$/,":orig");window.open(s)})();

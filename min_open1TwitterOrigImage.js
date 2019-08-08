@@ -1,0 +1,1 @@
+javascript:(()=>{const l=document.querySelectorAll('[role="listitem"]').length;const q=l==0?'[aria-modal="true"]':`[role="listitem"]:nth-of-type(${document.URL.replace(/.*\/photo\/(\d)/, '$1')})`;const s=document.querySelector(`${q} img`).src.replace(/\?format=(\w+)&name=\w+$/,'.$1:orig');window.open(s)})()
